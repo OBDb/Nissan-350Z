@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Nissan_350Z"
+
+generations:
+  - name: "Z33"
+    start_year: 2003
+    end_year: 2009
+    description: "The 3.5 L VQ35DE and, from 2007, VQ35HR V6 coupe and roadster."
